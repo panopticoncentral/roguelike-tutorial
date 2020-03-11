@@ -1,0 +1,131 @@
+<Project>
+  <ItemGroup>
+    <Content Include="..\..\lib\SDL2\README-SDL.txt" Link="README-SDL.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\LICENSE.jpeg.txt" Link="LICENSE.jpeg.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\LICENSE.png.txt" Link="LICENSE.png.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\LICENSE.tiff.txt" Link="LICENSE.tiff.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\LICENSE.webp.txt" Link="LICENSE.webp.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\LICENSE.zlib.txt" Link="LICENSE.zlib.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\LICENSE.FLAC.txt" Link="LICENSE.FLAC.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\LICENSE.modplug.txt" Link="LICENSE.modplug.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\LICENSE.mpg123.txt" Link="LICENSE.mpg123.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\LICENSE.ogg-vorbis.txt" Link="LICENSE.ogg-vorbis.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\LICENSE.opus.txt" Link="LICENSE.opus.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\LICENSE.opusfile.txt" Link="LICENSE.opusfile.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_ttf\lib\x64\LICENSE.freetype.txt" Link="LICENSE.freetype.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="..\..\lib\SDL2\lib\x64\SDL2.dll" Link="SDL2.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\libjpeg-9.dll" Link="libjpeg-9.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\libpng16-16.dll" Link="libpng16-16.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\libtiff-5.dll" Link="libtiff-5.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\libwebp-7.dll" Link="libwebp-7.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\SDL2_image.dll" Link="SDL2_image.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_image\lib\x64\zlib1.dll" Link="zlib1.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_ttf\lib\x64\libfreetype-6.dll" Link="libfreetype-6.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_ttf\lib\x64\SDL2_ttf.dll" Link="SDL2_ttf.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\libFLAC-8.dll" Link="libFLAC-8.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\libmodplug-1.dll" Link="libmodplug-1.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\libmpg123-0.dll" Link="libmpg123-0.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\libogg-0.dll" Link="libogg-0.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\libopus-0.dll" Link="libopus-0.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\libopusfile-0.dll" Link="libopusfile-0.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\libvorbis-0.dll" Link="libvorbis-0.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\libvorbisfile-3.dll" Link="libvorbisfile-3.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\..\lib\SDL2_mixer\lib\x64\SDL2_mixer.dll" Link="SDL2_mixer.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+  </ItemGroup>
+</Project>
