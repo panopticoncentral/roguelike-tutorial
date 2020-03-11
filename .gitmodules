@@ -1,0 +1,3 @@
+[submodule "lib/libcgs"]
+	path = lib/libcgs
+	url = https://github.com/panopticoncentral/libcgs
