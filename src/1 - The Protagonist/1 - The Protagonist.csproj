@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>x64</PlatformTarget>
+    <RootNamespace>RoguelikeTutorial</RootNamespace>
+  </PropertyGroup>
+
+  <Import Project="..\..\lib\sdl.targets" />
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\lib\libcgs\lib\sdl-sharp\src\SdlSharp\SdlSharp.csproj" />
+    <ProjectReference Include="..\..\lib\libcgs\src\libcgs\libcgs.csproj" />
+  </ItemGroup>
+
+</Project>
